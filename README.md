@@ -4,12 +4,12 @@ django repository blueprint for students
 Usage
 ------
 
-1. Clone repository: ``git clone git://github.com/vmi356/django_blueprint.git``
+1. Download and unzip repository: https://github.com/vmi356/django_blueprint/archive/master.zip
 2. Bootstrap buildout: ``python bootstrap.py``
 3. Verify project settings in ``buildout.cfg``
 4. Run buildout: ``bin/buildout``
 
-**Don't forget to make an initial commit in different repository!**
+**Don't forget to make an initial commit!**
 
 How to setup Pycharm IDE
 -------------------------
