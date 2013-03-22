@@ -1,4 +1,7 @@
-*.log
-*.pot
 *.pyc
-local_settings.py
+bin
+eggs
+develop-eggs
+parts
+.installed.cfg
+*.db
